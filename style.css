@@ -37,3 +37,7 @@ body {
   background-repeat: no-repeat;
   background-image: url("/images/passporter.png");
 }
+
+.box.hovered {
+  border: 2px dashed #333;
+}
