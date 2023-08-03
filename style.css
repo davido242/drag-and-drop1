@@ -26,6 +26,7 @@ body {
   width: 160px;
   border: 2px solid #333;
   border-radius: 12px;
+  cursor: pointer;
 }
 
 .box .image {
