@@ -1,1 +1,8 @@
-alert("A Drag and drop side project");
+let n = 0;
+
+while (n < 3) {
+  n++;
+  console.log(n, "Dave");
+}
+
+// Expected output: 3
